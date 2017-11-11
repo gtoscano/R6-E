@@ -9,9 +9,18 @@
  \$$    $$| $$  \$$  $$      | $$  | $$ \$$    $$| $$    $$      | $$     \  | $$   | $$     \
   \$$$$$$  \$$   \$$$$        \$$   \$$  \$$$$$$  \$$$$$$$        \$$$$$$$$   \$$    \$$$$$$$$
                                                                                               
-                                                                                              
+
+Libraries:
+
+requests>=2.13.0   (i.e. pip install requests)
+json-encoder>=0.4.4
+python-status>=1.0.1
+aiohttp>=2.2.0
+python-simple-rest-client  (https://github.com/allisson/python-simple-rest-client)
+
                                                                                               
 Examples:
 
-python github_etl.py -n uab-projects -o -f data/uab-projects.csv
-python github_etl.py -n cryptoapi -f data/cryptoapi.csv
+python github_etl.py -r -n bitcoin/bitcoin -o -f repository/bitcoin.csv
+python github_etl.py -n uab-projects -o -f repository/uab-projects.csv
+python github_etl.py -n cryptoapi -f repository/cryptoapi.csv
