@@ -33,7 +33,7 @@ parser.add_argument('-f', action='store', dest='csv_file', required=True, help='
 args = parser.parse_args()
 
 
-default_params = {'access_token': ''}
+default_params = {'access_token': '17e285d62f70250db2d49eabb9b509b8f6b4f0ea'}
 CLIENT_API = API(api_root_url='https://api.github.com', json_encode_body=True, params=default_params)
 CLIENT_API.add_resource(resource_name='operations', resource_class=OperationResource)
 HEADER = ('Date', 'URL', 'Repository name', 'Commits', 'Forks', 'Watchers', 'Stars')

@@ -24,3 +24,5 @@ Examples:
 python github_etl.py -r -n bitcoin/bitcoin -o -f repository/bitcoin.csv
 python github_etl.py -n uab-projects -o -f repository/uab-projects.csv
 python github_etl.py -n cryptoapi -f repository/cryptoapi.csv
+
+python start.py -s coins_github.csv
