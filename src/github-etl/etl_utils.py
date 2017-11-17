@@ -16,7 +16,19 @@ def append_info(repository, csv_file, header):
     with open(csv_file, 'a', newline='') as out:
         csv_out = csv.writer(out)
         csv_out.writerows(data)
-    #print(repository)
+    # print(data)
+
+def extend_info(repository, csv_file, header):
+    '''Extract info and save'''
+    data = []
+    if not os.path.exists(csv_file):
+        data.insert(0, header)
+
+    data.extend(repository)
+
+    with open(csv_file, 'a', newline='') as out:
+        csv_out = csv.writer(out)
+        csv_out.writerows(data)
 
 def sort_by(query, field):
     '''Sort info by field'''

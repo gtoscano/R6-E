@@ -26,3 +26,8 @@ python github_etl.py -n uab-projects -o -f repository/uab-projects.csv
 python github_etl.py -n cryptoapi -f repository/cryptoapi.csv
 
 python start.py -s coins_github.csv
+python start.py -s coins_github.csv -hi
+
+python github_historical_etl.py -n omise/omise-go -f prueba.csv
+
+python github_historical_etl.py -n zquestz/bitcoincash -f repository/bitcoincash-forks.csv
