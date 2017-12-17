@@ -1,0 +1,5 @@
+Bitcoin,https://github.com/bitcoin,https://github.com/bitcoin/bitcoin,bitcoin/bitcoin,bitcoin.csv,-r
+Ethereum,https://github.com/ethereum,https://github.com/ethereum/go-ethereum,ethereum/go-ethereum,ethereum.csv,-r
+Bitcoin Cash,https://github.com/zquestz,https://github.com/zquestz/bitcoincash,zquestz/bitcoincash,bitcoin_cash.csv,-r
+Ripple,https://github.com/ripple,https://github.com/ripple/rippled,ripple/rippled,ripple.csv,-r
+Litecoin,https://github.com/litecoin-project,https://github.com/litecoin-project/litecoin,litecoin-project/litecoin,litecoin.csv,-u

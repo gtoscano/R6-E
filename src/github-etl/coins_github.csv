@@ -1,15 +1,15 @@
-Bitcoin,https://github.com/bitcoin,https://github.com/bitcoin/bitcoin,bitcoin/bitcoin,bitcoin.csv
-Ethereum,https://github.com/ethereum,https://github.com/ethereum/go-ethereum,ethereum/go-ethereum,ethereum.csv
-Bitcoin Cash,https://github.com/zquestz,https://github.com/zquestz/bitcoincash,zquestz/bitcoincash,bitcoin_cash.csv
-Ripple,https://github.com/ripple,https://github.com/ripple/rippled,ripple/rippled,ripple.csv
-Litecoin,https://github.com/litecoin-project,https://github.com/litecoin-project/litecoin,litecoin-project/litecoin,litecoin.csv
-Dash,https://github.com/dashpay,https://github.com/dashpay/dash,dashpay/dash,dash.csv
-NEO,https://github.com/neo-project,https://github.com/neo-project/neo,neo-project/neo,neo.csv
-NEM,https://github.com/NemProject,https://github.com/NemProject/nem.core,NemProject/nem.core,nem.csv
-Monero,https://github.com/monero-project,https://github.com/monero-project/monero,monero-project/monero,monero.csv
-Ethereum Classic,https://github.com/ethereumproject,https://github.com/ethereumproject/go-ethereum,ethereumproject/go-ethereum,ethereum_classic.csv
-IOTA,https://github.com/iotaledger,https://github.com/iotaledger/iota.lib.js,iotaledger/iota.lib.js,iota.csv
-Qtum,https://github.com/qtumproject,https://github.com/qtumproject/qtum,qtumproject/qtum,qtum.csv
-OmiseGO,https://github.com/omise,https://github.com/omise/omise-go,omise/omise-go,omisego.csv
-Cardano,https://github.com/input-output-hk,https://github.com/input-output-hk/cardano-sl,input-output-hk/cardano-sl,cardano.csv
-Lisk,https://github.com/LiskHQ,https://github.com/LiskHQ/lisk,LiskHQ/lisk,lisk.csv
+Bitcoin,https://github.com/bitcoin,https://github.com/bitcoin/bitcoin,bitcoin/bitcoin,bitcoin.csv,-r
+Ethereum,https://github.com/ethereum,https://github.com/ethereum/go-ethereum,ethereum/go-ethereum,ethereum.csv,-r
+Bitcoin Cash,https://github.com/zquestz,https://github.com/zquestz/bitcoincash,zquestz/bitcoincash,bitcoin_cash.csv,-r
+Ripple,https://github.com/ripple,https://github.com/ripple/rippled,ripple/rippled,ripple.csv,-r
+Litecoin,https://github.com/litecoin-project,https://github.com/litecoin-project/litecoin,litecoin-project/litecoin,litecoin.csv,-u
+Dash,https://github.com/dashpay,https://github.com/dashpay/dash,dashpay/dash,dash.csv,-u
+NEO,https://github.com/neo-project,https://github.com/neo-project/neo,neo-project/neo,neo.csv,-r
+NEM,https://github.com/NemProject,https://github.com/NemProject/nem.core,NemProject/nem.core,nem.csv,-r
+Monero,https://github.com/monero-project,https://github.com/monero-project/monero,monero-project/monero,monero.csv,-r
+Ethereum Classic,https://github.com/ethereumproject,https://github.com/ethereumproject/go-ethereum,ethereumproject/go-ethereum,ethereum_classic.csv,-r
+IOTA,https://github.com/iotaledger,https://github.com/iotaledger/iota.lib.js,iotaledger/iota.lib.js,iota.csv,-r
+Qtum,https://github.com/qtumproject,https://github.com/qtumproject/qtum,qtumproject/qtum,qtum.csv,-r
+OmiseGO,https://github.com/omise,https://github.com/omise/omise-go,omise/omise-go,omisego.csv,-r
+Cardano,https://github.com/input-output-hk,https://github.com/input-output-hk/cardano-sl,input-output-hk/cardano-sl,cardano.csv,-r
+Lisk,https://github.com/LiskHQ,https://github.com/LiskHQ/lisk,LiskHQ/lisk,lisk.csv,-r

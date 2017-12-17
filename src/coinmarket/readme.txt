@@ -11,15 +11,10 @@ $$ |  $$\ $$ |  $$ |$$ |$$ |  $$ |      $$ |\$  /$$ |$$  __$$ |$$ |      $$  _$$
 
 Libraries:
 
-requests>=2.13.0   (i.e. pip install requests)
-json-encoder>=0.4.4
-python-status>=1.0.1
-aiohttp>=2.2.0
-python-simple-rest-client  (https://github.com/allisson/python-simple-rest-client)
+pip install requests
+pip install lxml
 
                                                                                               
 Examples:
 
-python coinmarket_etl.py -n -f data/coins.csv
-
-python coinmarket_github.py -s data/coins.csv -o data/coins_github.csv
+python coinmarketcap_etl.py -t 1 -p repository/coinmarketcap/
