@@ -56,6 +56,3 @@ while True:
 
     CURR_PAGE = CURR_PAGE + 1
     NEXT_PAGE = "/" + str(CURR_PAGE)
-
-
-
