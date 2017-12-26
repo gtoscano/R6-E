@@ -24,14 +24,40 @@ def extract_info(coin_market_page, today, filename):
     page = requests.get(HTML_PAGE_CMC + coin_market_page)
     html_info = html.fromstring(page.content)
 
+    table = etl_utils.read_csv(filename)
+    header = []
+
+    if not table:
+        table = []
+        header.insert(0, 'Date')
+    else:
+        header = table.pop(0)
+
+    # print (table)
+    # print (header)
+
+    data = [None] * len(header)
+    data[0] = today
+
     for market_root in html_info.xpath("//table[@id='markets-table']/tbody/tr"):
-        row = market_root.getchildren()[1].xpath("a/text()")
+        market = market_root.getchildren()[1].xpath("a/text()")[0]
+        market = market + "|" + market_root.getchildren()[2].xpath("a/text()")[0]
         notes = market_root.getchildren()[3].xpath("text()")[0].replace("\n", "").strip()
-        row.append(notes + market_root.getchildren()[3]
-                   .xpath("span/text()")[0].replace("\n", "").replace("\"", "").strip())
-        row.insert(0, today)
-        #print(row)
-        etl_utils.append_info(row, filename)
+        volume = notes + (market_root.getchildren()[3].xpath("span/text()")[0]
+                          .replace("\n", "").replace("\"", "").strip())
+        if market in header:
+            index = header.index(market)
+            data[index] = volume
+        else:
+            header.append(market)
+            data.append(volume)
+            for row in table:
+                row.append(None)
+
+    table.append(data)
+    table.insert(0, header)
+
+    etl_utils.replace_csv_file(table, filename)
 
 
 S_TODAY = datetime.datetime.today().strftime('%Y-%m-%d')

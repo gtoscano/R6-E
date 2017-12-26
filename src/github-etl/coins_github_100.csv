@@ -1,0 +1,100 @@
+Bitcoin,https://github.com/bitcoin,https://github.com/bitcoin/bitcoin,bitcoin/bitcoin,bitcoin.csv,-r
+Ethereum,https://github.com/ethereum,https://github.com/ethereum/go-ethereum,ethereum/go-ethereum,ethereum.csv,-r
+Bitcoin Cash,https://github.com/zquestz,https://github.com/zquestz/bitcoincash,zquestz/bitcoincash,bitcoin_cash.csv,-r
+Ripple,https://github.com/ripple,https://github.com/ripple/rippled,ripple/rippled,ripple.csv,-r
+Litecoin,https://github.com/litecoin-project,https://github.com/litecoin-project/litecoin,litecoin-project/litecoin,litecoin.csv,-u
+Dash,https://github.com/dashpay,https://github.com/dashpay/dash,dashpay/dash,dash.csv,-u
+NEO,https://github.com/neo-project,https://github.com/neo-project/neo,neo-project/neo,neo.csv,-r
+NEM,https://github.com/NemProject,https://github.com/NemProject/nem.core,NemProject/nem.core,nem.csv,-r
+Monero,https://github.com/monero-project,https://github.com/monero-project/monero,monero-project/monero,monero.csv,-r
+Ethereum Classic,https://github.com/ethereumproject,https://github.com/ethereumproject/go-ethereum,ethereumproject/go-ethereum,ethereum_classic.csv,-r
+IOTA,https://github.com/iotaledger,https://github.com/iotaledger/iota.lib.js,iotaledger/iota.lib.js,iota.csv,-r
+Qtum,https://github.com/qtumproject,https://github.com/qtumproject/qtum,qtumproject/qtum,qtum.csv,-r
+OmiseGO,https://github.com/omise,https://github.com/omise/omise-go,omise/omise-go,omisego.csv,-r
+Cardano,https://github.com/input-output-hk,https://github.com/input-output-hk/cardano-sl,input-output-hk/cardano-sl,cardano.csv,-r
+Lisk,https://github.com/LiskHQ,https://github.com/LiskHQ/lisk,LiskHQ/lisk,lisk.csv,-r
+EOS,https://github.com/EOSIO,https://github.com/EOSIO/eos,EOSIO/eos,eos.csv,-r
+Bitcoin Gold,https://github.com/BTCGPU,https://github.com/BTCGPU/BTCGPU,BTCGPU/BTCGPU,bitcoin_gold.csv,-r
+Stellar,https://github.com/stellar,https://github.com/stellar/stellar-core,stellar/stellar-core,stellar.csv,-r
+BitConnect,https://github.com/bitconnectcoin,https://github.com/bitconnectcoin/bitconnectcoin,bitconnectcoin/bitconnectcoin,bitconnect.csv,-r
+TRON,https://github.com/tronprotocol,https://github.com/tronprotocol/java-tron,tronprotocol/java-tron,tron.csv,-r
+Verge,https://github.com/vergecurrency,https://github.com/vergecurrency/VERGE,vergecurrency/VERGE,verge.csv,-r
+Zcash,https://github.com/zcash,https://github.com/zcash/zcash,zcash/zcash,zcash.csv,-r
+ICON,https://github.com/theloopkr,https://github.com/theloopkr/loopchain,theloopkr/loopchain,icon.csv,-r
+OmiseGO,https://github.com/omise,https://github.com/omise/omise-go,omise/omise-go,omisego.csv,-r
+BitShares,https://github.com/bitshares,https://github.com/bitshares/bitshares-core,bitshares/bitshares-core,bitshares.csv,-r
+Populous,https://github.com/bitpopulous,https://github.com/bitpopulous/Populous-smart-contracts,bitpopulous/Populous-smart-contracts,populous.csv,-r
+Stratis,https://github.com/stratisproject,https://github.com/stratisproject/StratisBitcoinFullNode,stratisproject/StratisBitcoinFullNode,stratis.csv,-r
+Waves,https://github.com/wavesplatform,https://github.com/wavesplatform/WavesGUI,wavesplatform/WavesGUI,waves.csv,-r
+Hshare,https://github.com/HcashOrg,https://github.com/HcashOrg/Hshare,HcashOrg/Hshare,hshare.csv,-r
+RaiBlocks,https://github.com/clemahieu,https://github.com/clemahieu/raiblocks,clemahieu/raiblocks,raiblocks.csv,-r
+Bytecoin,https://github.com/amjuarez,https://github.com/amjuarez/bytecoin,amjuarez/bytecoin,bytecoin.csv,-r
+Komodo,https://github.com/SuperNETorg,https://github.com/SuperNETorg/komodo,SuperNETorg/komodo,komodo.csv,-r
+Dogecoin,https://github.com/dogecoin,https://github.com/dogecoin/dogecoin,dogecoin/dogecoin,dogecoin.csv,-r
+Augur,https://github.com/AugurProject,https://github.com/AugurProject/augur-core,AugurProject/augur-core,augur.csv,-r
+Siacoin,https://github.com/NebulousLabs,https://github.com/NebulousLabs/Sia,NebulousLabs/Sia,siacoin.csv,-r
+Steem,https://github.com/steemit,https://github.com/steemit/steem,steemit/steem,steem.csv,-r
+Ark,https://github.com/ArkEcosystem,https://github.com/ArkEcosystem/ark-node,ArkEcosystem/ark-node,ark.csv,-r
+Veritaseum,https://github.com/RFVenter,https://github.com/RFVenter/Veritaseum,RFVenter/Veritaseum,veritaseum.csv,-r
+PIVX,https://github.com/PIVX-Project,https://github.com/PIVX-Project/PIVX/,PIVX-Project/PIVX/,pivx.csv,-r
+MonaCoin,https://github.com/monacoinproject,https://github.com/monacoinproject/monacoin,monacoinproject/monacoin,monacoin.csv,-r
+Decred,https://github.com/decred,https://github.com/decred/dcrd,decred/dcrd,decred.csv,-r
+DigiByte,https://github.com/digibyte,https://github.com/digibyte/digibyte,digibyte/digibyte,digibyte.csv,-r
+Golem,https://github.com/golemfactory,https://github.com/golemfactory/golem,golemfactory/golem,golem.csv,-r
+ZCoin,https://github.com/zcoinofficial,https://github.com/zcoinofficial/zcoin,zcoinofficial/zcoin,zcoin.csv,-r
+Status,https://github.com/status-im,https://github.com/status-im/status-react,status-im/status-react,status.csv,-r
+Byteball Bytes,https://github.com/byteball,https://github.com/byteball/byteball,byteball/byteball,byteball_bytes.csv,-r
+Electroneum,https://github.com/electroneum,https://github.com/electroneum/electroneum,electroneum/electroneum,electroneum.csv,-r
+MaidSafeCoin,https://github.com/maidsafe,https://github.com/maidsafe/routing,maidsafe/routing,maidsafecoin.csv,-r
+ReddCoin,https://github.com/reddcoin-project,https://github.com/reddcoin-project/reddcoin,reddcoin-project/reddcoin,reddcoin.csv,-r
+Syscoin,https://github.com/syscoin,https://github.com/syscoin/syscoin,syscoin/syscoin,syscoin.csv,-r
+BitcoinDark,https://github.com/jl777,https://github.com/jl777/btcd,jl777/btcd,bitcoindark.csv,-r
+Factom,https://github.com/FactomProject,https://github.com/FactomProject/FactomCode,FactomProject/FactomCode,factom.csv,-r
+Santiment Network Token,https://github.com/santiment,https://github.com/santiment/sanbase2,santiment/sanbase2,santiment_network_token.csv,-r
+DigixDAO,https://github.com/DigixGlobal,https://github.com/DigixGlobal/truffle-lightwallet-provider,DigixGlobal/truffle-lightwallet-provider,digixdao.csv,-r
+Aeternity,https://github.com/aeternity,https://github.com/aeternity/epoch,aeternity/epoch,aeternity.csv,-r
+Kyber Network,https://github.com/KyberNetwork,https://github.com/KyberNetwork/smart-contracts,KyberNetwork/smart-contracts,kyber_network.csv,-r
+Vertcoin,https://github.com/vertcoin,https://github.com/vertcoin/vertcoin,vertcoin/vertcoin,vertcoin.csv,-r
+0x,https://github.com/0xProject,https://github.com/0xProject/contracts,0xProject/contracts,0x.csv,-r
+GameCredits,https://github.com/gamers-coin,https://github.com/gamers-coin/gamecredits,gamers-coin/gamecredits,gamecredits.csv,-r
+Skycoin,https://github.com/skycoin,https://github.com/skycoin/skycoin,skycoin/skycoin,skycoin.csv,-r
+Gnosis,https://github.com/gnosis,https://github.com/gnosis/gnosis-contracts,gnosis/gnosis-contracts,gnosis.csv,-r
+Substratum,https://github.com/substratum,https://github.com/substratum/substratum,substratum/substratum,substratum.csv,-r
+Cryptonex,https://github.com/Cryptonex,https://github.com/Cryptonex/source,Cryptonex/source,cryptonex.csv,-r
+Dragonchain,https://github.com/dragonchain,https://github.com/dragonchain/dragonchain,dragonchain/dragonchain,dragonchain.csv,-r
+BitBay,https://github.com/dzimbeck,https://github.com/dzimbeck/BitBay,dzimbeck/BitBay,bitbay.csv,-r
+Dentacoin,https://github.com/Dentacoin,https://github.com/Dentacoin/dentacoin.github.io,Dentacoin/dentacoin.github.io,dentacoin.csv,-r
+Request Network,https://github.com/RequestNetwork,https://github.com/RequestNetwork/requestNetwork.js,RequestNetwork/requestNetwork.js,request_network.csv,-r
+Einsteinium,https://github.com/einsteinium,https://github.com/einsteinium/einsteinium,einsteinium/einsteinium,einsteinium.csv,-r
+Bancor,https://github.com/bancorprotocol,https://github.com/bancorprotocol/contracts,bancorprotocol/contracts,bancor.csv,-r
+Ripio Credit Network,https://github.com/ripio,https://github.com/ripio/rcn-token,ripio/rcn-token,ripio_credit_network.csv,-r
+Raiden Network Token,https://github.com/raiden-network,https://github.com/raiden-network/raiden,raiden-network/raiden,raiden_network_token.csv,-r
+Decentraland,https://github.com/decentraland,https://github.com/decentraland/land,decentraland/land,decentraland.csv,-r
+Nexus,https://github.com/Nexusoft,https://github.com/Nexusoft/Nexus,Nexusoft/Nexus,nexus.csv,-r
+NAV Coin,https://github.com/NAVCoin,https://github.com/NAVCoin/navcoin-core,NAVCoin/navcoin-core,nav_coin.csv,-r
+Edgeless,https://github.com/EdgelessCasino,https://github.com/EdgelessCasino/Smart-Contracts,EdgelessCasino/Smart-Contracts,edgeless.csv,-r
+Ubiq,https://github.com/ubiq,https://github.com/ubiq/go-ubiq,ubiq/go-ubiq,ubiq.csv,-r
+AdEx,https://github.com/AdExBlockchain,https://github.com/AdExBlockchain/adex-core,AdExBlockchain/adex-core,adex.csv,-r
+Blocknet,https://github.com/BlocknetDX,https://github.com/BlocknetDX/BlockDX,BlocknetDX/BlockDX,blocknet.csv,-r
+ChainLink,https://github.com/smartcontractkit,https://github.com/smartcontractkit/chainlink,smartcontractkit/chainlink,chainlink.csv,-r
+Agoras Tokens,https://github.com/idni,https://github.com/idni/tau,idni/tau,agoras_tokens.csv,-r
+Storj,https://github.com/Storj,https://github.com/Storj/core,Storj/core,storj.csv,-r
+PayPie,https://github.com/PayPie,https://github.com/PayPie/PPP,PayPie/PPP,paypie.csv,-r
+DigitalNote,https://github.com/xdn-project,https://github.com/xdn-project/digitalnote,xdn-project/digitalnote,digitalnote.csv,-r
+Streamr DATAcoin,https://github.com/streamr-dev,https://github.com/streamr-dev/ruuvi-streamr,streamr-dev/ruuvi-streamr,streamr_datacoin.csv,-r
+Particl,https://github.com/particl,https://github.com/particl/particl-core,particl/particl-core,particl.csv,-r
+Centra,https://github.com/CentraTech,https://github.com/CentraTech/smart-contract,CentraTech/smart-contract,centra.csv,-r
+Time New Bank,https://github.com/fanxiong,https://github.com/fanxiong/crowdsale-contracts,fanxiong/crowdsale-contracts,time_new_bank.csv,-r
+SingularDTV,https://github.com/ConsenSys,https://github.com/ConsenSys/singulardtv-contracts,ConsenSys/singulardtv-contracts,singulardtv.csv,-r
+Groestlcoin,https://github.com/Groestlcoin,https://github.com/Groestlcoin/groestlcoin,Groestlcoin/groestlcoin,groestlcoin.csv,-r
+Asch,https://github.com/AschPlatform,https://github.com/AschPlatform/asch,AschPlatform/asch,asch.csv,-r
+Emercoin,https://github.com/emercoin,https://github.com/emercoin/emercoin,emercoin/emercoin,emercoin.csv,-r
+Ink,https://github.com/inklabsfoundation,https://github.com/inklabsfoundation/inkchain,inklabsfoundation/inkchain,ink.csv,-r
+Rise,https://github.com/RiseVision,https://github.com/RiseVision/rise-node,RiseVision/rise-node,rise.csv,-r
+ZenCash,https://github.com/ZencashOfficial,https://github.com/ZencashOfficial/zen,ZencashOfficial/zen,zencash.csv,-r
+Aragon,https://github.com/aragon,https://github.com/aragon/aragon,aragon/aragon,aragon.csv,-r
+Peercoin,https://github.com/peercoin,https://github.com/peercoin/peercoin,peercoin/peercoin,peercoin.csv,-r
+Metaverse ETP,https://github.com/mvs-org,https://github.com/mvs-org/metaverse,mvs-org/metaverse,metaverse_etp.csv,-r
+Rchain,https://github.com/rchain,https://github.com/rchain/rchain,rchain/rchain,rchain.csv,-r
+Revain,https://github.com/Revain,https://github.com/Revain/Token,Revain/Token,revain.csv,-r
+Burst,https://github.com/PoC-Consortium,https://github.com/PoC-Consortium/burstcoin,PoC-Consortium/burstcoin,burst.csv,-r

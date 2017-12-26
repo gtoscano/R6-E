@@ -37,7 +37,7 @@ PARSER.add_argument('-f', action='store', dest='csv_file',
 ARGS = PARSER.parse_args()
 
 RATE_SLEEP_LIMIT = 0.9
-PARAMS = {'access_token': '9280cc85a7a72a8f166339f22d7de2c194e064f3'}
+PARAMS = {'access_token': ''}
 HEADERS = {'Accept': 'application/vnd.github.v3.star+json'}
 CLIENT_API = API(api_root_url='https://api.github.com',
                  json_encode_body=True, params=PARAMS, headers=HEADERS)

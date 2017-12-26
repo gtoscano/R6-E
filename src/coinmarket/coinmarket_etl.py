@@ -12,7 +12,7 @@ from simple_rest_client.resource import Resource
 class OperationResource(Resource):
     """Resources to use"""
     actions = {
-        'list_coins': {'method': 'GET', 'url': '/v1/ticker/?limit=100'},
+        'list_coins': {'method': 'GET', 'url': '/v1/ticker/?limit=120'},
     }
 
 
@@ -28,4 +28,4 @@ CLIENT_API.add_resource(resource_name='operations', resource_class=OperationReso
 
 if args.get_name:
     RESULT = CLIENT_API.operations.list_coins()
-    [etl_utils.append_info((e['name']), args.csv_file) for e in RESULT.body]
+    [etl_utils.append_info([e['name']], args.csv_file) for e in RESULT.body]

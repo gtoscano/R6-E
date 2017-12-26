@@ -102,7 +102,7 @@ PARSER.add_argument('-f', action='store', dest='csv_file',
                     required=True, help='Export csv filename')
 ARGS = PARSER.parse_args()
 
-DEFAULT_PARAMS = {'access_token': '9280cc85a7a72a8f166339f22d7de2c194e064f3'}
+DEFAULT_PARAMS = {'access_token': ''}
 CLIENT_API = API(api_root_url='https://api.github.com',
                  json_encode_body=True, params=DEFAULT_PARAMS)
 CLIENT_API.add_resource(resource_name='operations',
